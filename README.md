@@ -47,6 +47,10 @@ Any time you want to rebuild and run the tests:
 ./unit_tests.sh
 ```
 
+---
+
+
+
 You’ll see each step (clean, configure, build, list tests, run tests) and when it finishes a log file called
 
 `test_output_51132.txt` will appear in the same folder 
